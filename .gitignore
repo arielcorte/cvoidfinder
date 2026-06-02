@@ -1,0 +1,17 @@
+# Build artifacts
+*.o
+*.a
+*.so
+*.dylib
+
+# Example binary
+/void_finder_example
+
+# Output files
+*.dat
+voids*.txt
+
+# Editor / OS cruft
+*.swp
+*~
+.DS_Store
