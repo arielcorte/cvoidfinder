@@ -136,6 +136,14 @@ cvoidfinder/
 └── Makefile
 ```
 
+## License
+
+`cvoidfinder` is distributed under the **GNU General Public License v2.0 or
+later** (see [`LICENSE`](LICENSE)). It is a derivative work of
+CosmoBolognaLib, which is itself GPL-2.0-or-later; the original copyright is
+held by Federico Marulli, Simone Sartori, Sofia Contarini, Carlo Cannarozzo
+and Tommaso Ronconi. Each source file carries the corresponding notice.
+
 ## Source provenance
 
 Ported from CosmoBolognaLib:
